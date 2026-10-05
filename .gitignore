@@ -1,0 +1,18 @@
+# Python virtual environment
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Pytest cache
+.pytest_cache/
+
+# Generated reports
+reports/*.txt
+
+# Backup files
+src/analyzer_backup.py
+src/analyzer.py.save
+src/analyzer_v*.py
+tests/test_analyzer_v*.py
